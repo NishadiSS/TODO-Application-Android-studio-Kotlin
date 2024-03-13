@@ -2,6 +2,9 @@
 
 Welcome to the Todo Application repository, a simple and efficient task management app developed using Android Studio and Kotlin. This application helps users organize their tasks, set priorities, and stay productive on the go.
 
+# Mobile Application View
+https://github.com/NishadiSS/TODO-Application-Android-studio-Kotlin/assets/119886016/7b12f57e-22b2-42cd-b339-5ff8c36777ac
+
 ## Features
 #### 1. Intuitive User Interface
 The Todo app features a clean and intuitive user interface, providing a seamless experience for adding, managing, and completing tasks.
